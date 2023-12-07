@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Victor Hurst. I've been working with new front-end frameworks like React. I also have been utilizing backend frameworks such as Node.js with both NoSQL (MongoDB) and SQL (MySQL, PostgreSQL)",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects/Artifacts",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "UI regression research project - Taq Automotive",
+        "startDate": "2023",
+        "description": "This project aimed to research selenium/cypress (UI testing frameworks) for replacing some if not all of the manual regression tests that Taq has to do every time they deploy something to production. I was responsible for making a document and sample code comparing the two frameworks with their pros/cons. I did this project between the periods when I was assigned no other task. In this, I used my prior programming skills to analyze the speed, simplicity (coding syntax), and company constraints to successfully make a judgment between these two frameworks. I received good feedback from 2 of the developers at Taq including my team lead. My research was then ultimately used as the key factor in deciding which framework to use. With this, I learned how to research and understand key indicators as to which frameworks would be the best at a given company.",
+        "images": [
+          "images/portfolio/SCRes/pic1.PNG",
+          "images/portfolio/SCRes/pic2.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-selenium-plain",
+            "name": "Selenium"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "taq Automotive Intelligence",
+        "title": "Software Developer (Intern)",
+        "years": "09.2023 - present",
+        "mainTech": [
+          "C# 12.0"
+        ],
+        "technologies": [
+          "MySQL",
+          "JavaScript",
+          "C#",
+          "Bootstrap",
+          "MDBootstrap",
+          ".NET Core",
+          "Selenium",
+          "Cypress",
+          "SpecFlow"
+        ]
+      }
+    ]
+  }
