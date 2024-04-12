@@ -33,6 +33,21 @@
             "name": "C#"
           }
         ]
+      },
+      {
+        "title": "JavaScript Document optimization tool",
+        "startDate": "2024",
+        "description": "In this project, I developed a JavaScript tool for Adobe Acrobat that streamlined document processing, achieving a 50% reduction in processing time. My responsibility was to create a tool that automated several routine tasks, leveraging my programming skills to enhance efficiency. During periods when I was not assigned to other tasks, I focused on this initiative, applying my knowledge of JavaScript to solve practical problems faced by our team. My solution received positive feedback from my team lead and other developers, notably for its impact on reducing manual labor and speeding up workflows. This experience taught me how to effectively apply technical skills to improve business processes and significantly cut down on operational delays.",
+        "images": [
+          "images/portfolio/SCRes/thumbnail_image001.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
       }
     ],
     "experience": [

@@ -62,6 +62,7 @@ class App extends Component {
   }
 
   loadSharedData() {
+    console.log("ajsdlkasndaslbd")
     $.ajax({
       url: `portfolio_shared_data.json`,
       dataType: "json",
